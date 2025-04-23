@@ -76,7 +76,7 @@ gcc -o snake.exe snake.c -lncursesw
    - Hızlı oyun temposu
    - 2 can
    - Çok sayıda engel
-
+ 
 ### Coinler
 
 - 🍎 **Normal Coin**: 10 puan kazandırır
