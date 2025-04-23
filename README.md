@@ -1,4 +1,4 @@
-# 🐍 Süper Snake Oyunu
+# 🐍 SnakePro Oyunu
 
 ## Proje Hakkında
 Bu proje, klasik Snake (Yılan) oyununun terminal tabanlı gelişmiş bir versiyonudur. ncurses kütüphanesi kullanılarak C dilinde geliştirilmiştir ve emoji karakterler ile zengin bir görsel deneyim sunar.
@@ -77,10 +77,10 @@ gcc -o snake.exe snake.c -lncursesw
    - 2 can
    - Çok sayıda engel
 
-### Yemler
+### Coinler
 
-- 🍎 **Normal Yem**: 10 puan kazandırır
-- 🍏 **Bonus Yem**: 30 puan kazandırır ve sınırlı süre oyunda kalır. Yenildiğinde ekstra can verebilir.
+- 🍎 **Normal Coin**: 10 puan kazandırır
+- 🍏 **Bonus Coin**: 30 puan kazandırır ve sınırlı süre oyunda kalır. Yenildiğinde ekstra can verebilir.
 
 ### Seviye Atlama
 
@@ -121,14 +121,6 @@ Ayrıca emojileri değiştirerek görsel stili özelleştirebilirsiniz:
 - Bazı terminallerde emoji desteği düzgün çalışmayabilir
 - Windows CMD'de Unicode karakterleri doğru görüntülenmeyebilir
 
-## Gelecek Geliştirmeler
-
-- Oyun durumunu kaydetme/yükleme özelliği
-- Çoklu oyuncu modu
-- Özel harita desteği
-- Daha fazla güç-yükseltme (power-up) türü
-- Ses efektleri
-
 ## Lisans
 
 Bu proje açık kaynak olarak sunulmuştur.
@@ -136,6 +128,7 @@ Bu proje açık kaynak olarak sunulmuştur.
 ## Katkıda Bulunanlar
 
 - sozbek (Geliştirici)
+- muhaoz (arkada kuran okudu)
 
 ---
 
