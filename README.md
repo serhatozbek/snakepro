@@ -1,4 +1,4 @@
-# 🐍 SnakePro Oyunu
+# 🐍 SnakePro 
 
 ## Proje Hakkında
 Bu proje, klasik Snake (Yılan) oyununun terminal tabanlı gelişmiş bir versiyonudur. ncurses kütüphanesi kullanılarak C dilinde geliştirilmiştir ve emoji karakterler ile zengin bir görsel deneyim sunar.
@@ -128,7 +128,7 @@ Bu proje açık kaynak olarak sunulmuştur.
 ## Katkıda Bulunanlar
 
 - sozbek (Geliştirici)
-- muhaoz (arkada kuran okudu)
+- muhaoz (Arkada Kuran-ı Kerim okudu)
 
 ---
 
